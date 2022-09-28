@@ -20,6 +20,7 @@ on:
         - RT-E8820S
         - RT-A040WQ
         - RT-MSG1500
+        - RT-MT1300
       uploadcow:
         type: boolean
         description: 'whether to upload firmware to cowtransfer'
